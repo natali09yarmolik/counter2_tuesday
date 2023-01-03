@@ -1,0 +1,62 @@
+.displayBlock{
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #61dafb;
+    color: #282c34;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.inputBlock{
+    position: relative;
+    width: 90px;
+    height: 18px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-left: 10px;
+    padding-bottom: 4px;
+    background-color: #efefef;
+}
+.arrow{
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    margin-top: -26px;
+    margin-left: 69px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.5;
+}
+.arrow:hover {
+    width: 22px;
+    height: 20px;
+    opacity: 0.8;
+}
+.arrowUp {
+    display: block;
+    width: 20px;
+    height: 10px;
+
+}
+.arrowDown{
+    display: block;
+    width: 20px;
+    height: 10px;
+
+}
+.arrowUp:active{
+    opacity: 1;
+}
+.arrowDown:active{
+    opacity: 1;
+}
+.displayError{
+    background-color: #fa3131;
+}

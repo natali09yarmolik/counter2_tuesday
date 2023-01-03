@@ -1,0 +1,40 @@
+.btnInc{
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #61dafb;
+    border: transparent;
+    color: #282c34;
+    font-size: 28px;
+    font-weight: bold;
+}
+.btnReset{
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #61dafb;
+    border: transparent;
+    color: #282c34;
+    font-size: 28px;
+    font-weight: bold;
+}
+.btnIncDis{
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #357b8f;
+    border: transparent;
+    color: #282c34;
+    font-size: 28px;
+    font-weight: bold;
+}
+.btnResetDis{
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #357b8f;
+    border: transparent;
+    color: #282c34;
+    font-size: 28px;
+    font-weight: bold;
+}
